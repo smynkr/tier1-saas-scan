@@ -1,0 +1,4 @@
+node_modules/
+dist/
+*.zip
+.e2e-tmp/

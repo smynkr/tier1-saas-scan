@@ -1,0 +1,439 @@
+{
+ "_origin": "smynkr/axiomlayer-oss supabase/seed/seed-catalog.json (archived snapshot) (single-author file, authored 2026-03-23). Reduced to name, category, subcategory, domains; price, billing-sender and OAuth fields dropped (DESIGN section 7). Unmodified port: adjustments are applied in catalog/build.mjs so they stay reviewable.",
+ "apps": [
+  {
+   "name": "Slack",
+   "category": "Communication",
+   "subcategory": "Messaging",
+   "domains": [
+    "slack.com",
+    "app.slack.com"
+   ]
+  },
+  {
+   "name": "Microsoft Teams",
+   "category": "Communication",
+   "subcategory": "Messaging",
+   "domains": [
+    "teams.microsoft.com"
+   ]
+  },
+  {
+   "name": "Zoom",
+   "category": "Communication",
+   "subcategory": "Video Conferencing",
+   "domains": [
+    "zoom.us",
+    "zoom.com"
+   ]
+  },
+  {
+   "name": "Google Workspace",
+   "category": "Productivity",
+   "subcategory": "Office Suite",
+   "domains": [
+    "workspace.google.com",
+    "google.com"
+   ]
+  },
+  {
+   "name": "Microsoft 365",
+   "category": "Productivity",
+   "subcategory": "Office Suite",
+   "domains": [
+    "office.com",
+    "microsoft365.com"
+   ]
+  },
+  {
+   "name": "Notion",
+   "category": "Productivity",
+   "subcategory": "Knowledge Base",
+   "domains": [
+    "notion.so",
+    "notion.com",
+    "app.notion.so"
+   ]
+  },
+  {
+   "name": "Asana",
+   "category": "Productivity",
+   "subcategory": "Project Management",
+   "domains": [
+    "asana.com",
+    "app.asana.com"
+   ]
+  },
+  {
+   "name": "Jira",
+   "category": "Productivity",
+   "subcategory": "Project Management",
+   "domains": [
+    "atlassian.net",
+    "jira.atlassian.com"
+   ]
+  },
+  {
+   "name": "Linear",
+   "category": "Productivity",
+   "subcategory": "Project Management",
+   "domains": [
+    "linear.app",
+    "app.linear.dev",
+    "linear.dev"
+   ]
+  },
+  {
+   "name": "Monday.com",
+   "category": "Productivity",
+   "subcategory": "Project Management",
+   "domains": [
+    "monday.com"
+   ]
+  },
+  {
+   "name": "Trello",
+   "category": "Productivity",
+   "subcategory": "Project Management",
+   "domains": [
+    "trello.com"
+   ]
+  },
+  {
+   "name": "Figma",
+   "category": "Design",
+   "subcategory": "Design Tool",
+   "domains": [
+    "figma.com",
+    "www.figma.com"
+   ]
+  },
+  {
+   "name": "Canva",
+   "category": "Design",
+   "subcategory": "Design Tool",
+   "domains": [
+    "canva.com",
+    "www.canva.com"
+   ]
+  },
+  {
+   "name": "Miro",
+   "category": "Design",
+   "subcategory": "Whiteboard",
+   "domains": [
+    "miro.com"
+   ]
+  },
+  {
+   "name": "GitHub",
+   "category": "Engineering",
+   "subcategory": "Version Control",
+   "domains": [
+    "github.com"
+   ]
+  },
+  {
+   "name": "GitLab",
+   "category": "Engineering",
+   "subcategory": "Version Control",
+   "domains": [
+    "gitlab.com"
+   ]
+  },
+  {
+   "name": "Vercel",
+   "category": "Engineering",
+   "subcategory": "Hosting",
+   "domains": [
+    "vercel.com"
+   ]
+  },
+  {
+   "name": "AWS",
+   "category": "Engineering",
+   "subcategory": "Cloud Infrastructure",
+   "domains": [
+    "aws.amazon.com",
+    "console.aws.amazon.com"
+   ]
+  },
+  {
+   "name": "Datadog",
+   "category": "Engineering",
+   "subcategory": "Monitoring",
+   "domains": [
+    "datadoghq.com",
+    "app.datadoghq.com"
+   ]
+  },
+  {
+   "name": "Sentry",
+   "category": "Engineering",
+   "subcategory": "Error Tracking",
+   "domains": [
+    "sentry.io"
+   ]
+  },
+  {
+   "name": "Salesforce",
+   "category": "Sales",
+   "subcategory": "CRM",
+   "domains": [
+    "salesforce.com",
+    "lightning.force.com"
+   ]
+  },
+  {
+   "name": "HubSpot",
+   "category": "Sales",
+   "subcategory": "CRM",
+   "domains": [
+    "hubspot.com",
+    "app.hubspot.com"
+   ]
+  },
+  {
+   "name": "Pipedrive",
+   "category": "Sales",
+   "subcategory": "CRM",
+   "domains": [
+    "pipedrive.com"
+   ]
+  },
+  {
+   "name": "Intercom",
+   "category": "Support",
+   "subcategory": "Customer Support",
+   "domains": [
+    "intercom.com",
+    "app.intercom.com"
+   ]
+  },
+  {
+   "name": "Zendesk",
+   "category": "Support",
+   "subcategory": "Customer Support",
+   "domains": [
+    "zendesk.com"
+   ]
+  },
+  {
+   "name": "Freshdesk",
+   "category": "Support",
+   "subcategory": "Customer Support",
+   "domains": [
+    "freshdesk.com",
+    "freshworks.com"
+   ]
+  },
+  {
+   "name": "Stripe",
+   "category": "Finance",
+   "subcategory": "Payments",
+   "domains": [
+    "stripe.com",
+    "dashboard.stripe.com"
+   ]
+  },
+  {
+   "name": "QuickBooks",
+   "category": "Finance",
+   "subcategory": "Accounting",
+   "domains": [
+    "quickbooks.intuit.com",
+    "qbo.intuit.com"
+   ]
+  },
+  {
+   "name": "Xero",
+   "category": "Finance",
+   "subcategory": "Accounting",
+   "domains": [
+    "xero.com",
+    "go.xero.com"
+   ]
+  },
+  {
+   "name": "Gusto",
+   "category": "HR",
+   "subcategory": "Payroll",
+   "domains": [
+    "gusto.com",
+    "app.gusto.com"
+   ]
+  },
+  {
+   "name": "Rippling",
+   "category": "HR",
+   "subcategory": "HRIS",
+   "domains": [
+    "rippling.com",
+    "app.rippling.com"
+   ]
+  },
+  {
+   "name": "BambooHR",
+   "category": "HR",
+   "subcategory": "HRIS",
+   "domains": [
+    "bamboohr.com"
+   ]
+  },
+  {
+   "name": "Okta",
+   "category": "Security",
+   "subcategory": "Identity",
+   "domains": [
+    "okta.com"
+   ]
+  },
+  {
+   "name": "1Password",
+   "category": "Security",
+   "subcategory": "Password Manager",
+   "domains": [
+    "1password.com",
+    "my.1password.com"
+   ]
+  },
+  {
+   "name": "LastPass",
+   "category": "Security",
+   "subcategory": "Password Manager",
+   "domains": [
+    "lastpass.com"
+   ]
+  },
+  {
+   "name": "DocuSign",
+   "category": "Productivity",
+   "subcategory": "E-Signature",
+   "domains": [
+    "docusign.com",
+    "app.docusign.com"
+   ]
+  },
+  {
+   "name": "Dropbox",
+   "category": "Productivity",
+   "subcategory": "File Storage",
+   "domains": [
+    "dropbox.com",
+    "www.dropbox.com"
+   ]
+  },
+  {
+   "name": "Box",
+   "category": "Productivity",
+   "subcategory": "File Storage",
+   "domains": [
+    "box.com",
+    "app.box.com"
+   ]
+  },
+  {
+   "name": "Loom",
+   "category": "Communication",
+   "subcategory": "Video Recording",
+   "domains": [
+    "loom.com",
+    "www.loom.com"
+   ]
+  },
+  {
+   "name": "Calendly",
+   "category": "Productivity",
+   "subcategory": "Scheduling",
+   "domains": [
+    "calendly.com"
+   ]
+  },
+  {
+   "name": "Grammarly",
+   "category": "Productivity",
+   "subcategory": "Writing",
+   "domains": [
+    "grammarly.com",
+    "app.grammarly.com"
+   ]
+  },
+  {
+   "name": "Mailchimp",
+   "category": "Marketing",
+   "subcategory": "Email Marketing",
+   "domains": [
+    "mailchimp.com"
+   ]
+  },
+  {
+   "name": "Sendgrid",
+   "category": "Engineering",
+   "subcategory": "Email API",
+   "domains": [
+    "sendgrid.com",
+    "app.sendgrid.com"
+   ]
+  },
+  {
+   "name": "Twilio",
+   "category": "Engineering",
+   "subcategory": "Communications API",
+   "domains": [
+    "twilio.com",
+    "console.twilio.com"
+   ]
+  },
+  {
+   "name": "Airtable",
+   "category": "Productivity",
+   "subcategory": "Database",
+   "domains": [
+    "airtable.com"
+   ]
+  },
+  {
+   "name": "Zapier",
+   "category": "Productivity",
+   "subcategory": "Automation",
+   "domains": [
+    "zapier.com"
+   ]
+  },
+  {
+   "name": "Webflow",
+   "category": "Marketing",
+   "subcategory": "Website Builder",
+   "domains": [
+    "webflow.com",
+    "webflow.io"
+   ]
+  },
+  {
+   "name": "Amplitude",
+   "category": "Analytics",
+   "subcategory": "Product Analytics",
+   "domains": [
+    "amplitude.com",
+    "app.amplitude.com"
+   ]
+  },
+  {
+   "name": "Mixpanel",
+   "category": "Analytics",
+   "subcategory": "Product Analytics",
+   "domains": [
+    "mixpanel.com"
+   ]
+  },
+  {
+   "name": "PostHog",
+   "category": "Analytics",
+   "subcategory": "Product Analytics",
+   "domains": [
+    "posthog.com",
+    "app.posthog.com"
+   ]
+  }
+ ]
+}

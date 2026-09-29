@@ -1,0 +1,1983 @@
+{
+ "_origin": "Manual additions assembled 2026-09-28 for the MVP from the maintainer (agent) knowledge of each vendor's own primary domain. NOT individually re-verified against the vendor site in this pass; each entry needs the DESIGN section 7 step-4 evidence URL before a public release. No third-party list or commercial catalog was copied.",
+ "apps": [
+  {
+   "name": "ChatGPT",
+   "category": "AI",
+   "subcategory": "Chat assistant",
+   "domains": [
+    "chatgpt.com",
+    "chat.openai.com"
+   ]
+  },
+  {
+   "name": "Claude",
+   "category": "AI",
+   "subcategory": "Chat assistant",
+   "domains": [
+    "claude.ai"
+   ]
+  },
+  {
+   "name": "Google Gemini",
+   "category": "AI",
+   "subcategory": "Chat assistant",
+   "domains": [
+    "gemini.google.com"
+   ]
+  },
+  {
+   "name": "Microsoft Copilot",
+   "category": "AI",
+   "subcategory": "Chat assistant",
+   "domains": [
+    "copilot.microsoft.com"
+   ]
+  },
+  {
+   "name": "Perplexity",
+   "category": "AI",
+   "subcategory": "Chat assistant",
+   "domains": [
+    "perplexity.ai"
+   ]
+  },
+  {
+   "name": "Mistral Le Chat",
+   "category": "AI",
+   "subcategory": "Chat assistant",
+   "domains": [
+    "chat.mistral.ai"
+   ]
+  },
+  {
+   "name": "DeepSeek Chat",
+   "category": "AI",
+   "subcategory": "Chat assistant",
+   "domains": [
+    "chat.deepseek.com"
+   ]
+  },
+  {
+   "name": "Grok",
+   "category": "AI",
+   "subcategory": "Chat assistant",
+   "domains": [
+    "grok.com"
+   ]
+  },
+  {
+   "name": "Meta AI",
+   "category": "AI",
+   "subcategory": "Chat assistant",
+   "domains": [
+    "meta.ai"
+   ]
+  },
+  {
+   "name": "Poe",
+   "category": "AI",
+   "subcategory": "Chat assistant",
+   "domains": [
+    "poe.com"
+   ]
+  },
+  {
+   "name": "Character.AI",
+   "category": "AI",
+   "subcategory": "Chat assistant",
+   "domains": [
+    "character.ai"
+   ]
+  },
+  {
+   "name": "Pi",
+   "category": "AI",
+   "subcategory": "Chat assistant",
+   "domains": [
+    "pi.ai"
+   ]
+  },
+  {
+   "name": "You.com",
+   "category": "AI",
+   "subcategory": "Chat assistant",
+   "domains": [
+    "you.com"
+   ]
+  },
+  {
+   "name": "Kimi",
+   "category": "AI",
+   "subcategory": "Chat assistant",
+   "domains": [
+    "kimi.com"
+   ]
+  },
+  {
+   "name": "Qwen Chat",
+   "category": "AI",
+   "subcategory": "Chat assistant",
+   "domains": [
+    "chat.qwen.ai"
+   ]
+  },
+  {
+   "name": "Z.ai Chat",
+   "category": "AI",
+   "subcategory": "Chat assistant",
+   "domains": [
+    "chat.z.ai"
+   ]
+  },
+  {
+   "name": "Duck.ai",
+   "category": "AI",
+   "subcategory": "Chat assistant",
+   "domains": [
+    "duck.ai"
+   ]
+  },
+  {
+   "name": "Hugging Face",
+   "category": "AI",
+   "subcategory": "Model/API console",
+   "domains": [
+    "huggingface.co"
+   ]
+  },
+  {
+   "name": "NotebookLM",
+   "category": "AI",
+   "subcategory": "Meeting/notes",
+   "domains": [
+    "notebooklm.google.com"
+   ]
+  },
+  {
+   "name": "Glean",
+   "category": "AI",
+   "subcategory": "Agents/automation",
+   "domains": [
+    "glean.com"
+   ]
+  },
+  {
+   "name": "Cursor",
+   "category": "AI",
+   "subcategory": "Coding assistant",
+   "domains": [
+    "cursor.com",
+    "cursor.sh"
+   ]
+  },
+  {
+   "name": "Replit",
+   "category": "AI",
+   "subcategory": "Coding assistant",
+   "domains": [
+    "replit.com"
+   ]
+  },
+  {
+   "name": "Bolt",
+   "category": "AI",
+   "subcategory": "Coding assistant",
+   "domains": [
+    "bolt.new"
+   ]
+  },
+  {
+   "name": "Lovable",
+   "category": "AI",
+   "subcategory": "Coding assistant",
+   "domains": [
+    "lovable.dev"
+   ]
+  },
+  {
+   "name": "v0",
+   "category": "AI",
+   "subcategory": "Coding assistant",
+   "domains": [
+    "v0.dev",
+    "v0.app"
+   ]
+  },
+  {
+   "name": "Windsurf",
+   "category": "AI",
+   "subcategory": "Coding assistant",
+   "domains": [
+    "windsurf.com",
+    "codeium.com"
+   ]
+  },
+  {
+   "name": "Tabnine",
+   "category": "AI",
+   "subcategory": "Coding assistant",
+   "domains": [
+    "tabnine.com"
+   ]
+  },
+  {
+   "name": "Sourcegraph",
+   "category": "AI",
+   "subcategory": "Coding assistant",
+   "domains": [
+    "sourcegraph.com"
+   ]
+  },
+  {
+   "name": "Devin",
+   "category": "AI",
+   "subcategory": "Coding assistant",
+   "domains": [
+    "devin.ai"
+   ]
+  },
+  {
+   "name": "Phind",
+   "category": "AI",
+   "subcategory": "Coding assistant",
+   "domains": [
+    "phind.com"
+   ]
+  },
+  {
+   "name": "Qodo",
+   "category": "AI",
+   "subcategory": "Coding assistant",
+   "domains": [
+    "qodo.ai"
+   ]
+  },
+  {
+   "name": "Augment Code",
+   "category": "AI",
+   "subcategory": "Coding assistant",
+   "domains": [
+    "augmentcode.com"
+   ]
+  },
+  {
+   "name": "Blackbox AI",
+   "category": "AI",
+   "subcategory": "Coding assistant",
+   "domains": [
+    "blackbox.ai"
+   ]
+  },
+  {
+   "name": "Warp",
+   "category": "AI",
+   "subcategory": "Coding assistant",
+   "domains": [
+    "warp.dev"
+   ]
+  },
+  {
+   "name": "OpenAI Platform",
+   "category": "AI",
+   "subcategory": "Model/API console",
+   "domains": [
+    "platform.openai.com"
+   ]
+  },
+  {
+   "name": "Anthropic Console",
+   "category": "AI",
+   "subcategory": "Model/API console",
+   "domains": [
+    "console.anthropic.com",
+    "platform.claude.com"
+   ]
+  },
+  {
+   "name": "Google AI Studio",
+   "category": "AI",
+   "subcategory": "Model/API console",
+   "domains": [
+    "aistudio.google.com"
+   ]
+  },
+  {
+   "name": "Mistral Console",
+   "category": "AI",
+   "subcategory": "Model/API console",
+   "domains": [
+    "console.mistral.ai"
+   ]
+  },
+  {
+   "name": "Groq",
+   "category": "AI",
+   "subcategory": "Model/API console",
+   "domains": [
+    "groq.com"
+   ]
+  },
+  {
+   "name": "Together AI",
+   "category": "AI",
+   "subcategory": "Model/API console",
+   "domains": [
+    "together.ai"
+   ]
+  },
+  {
+   "name": "Fireworks AI",
+   "category": "AI",
+   "subcategory": "Model/API console",
+   "domains": [
+    "fireworks.ai"
+   ]
+  },
+  {
+   "name": "Replicate",
+   "category": "AI",
+   "subcategory": "Model/API console",
+   "domains": [
+    "replicate.com"
+   ]
+  },
+  {
+   "name": "OpenRouter",
+   "category": "AI",
+   "subcategory": "Model/API console",
+   "domains": [
+    "openrouter.ai"
+   ]
+  },
+  {
+   "name": "Cohere",
+   "category": "AI",
+   "subcategory": "Model/API console",
+   "domains": [
+    "cohere.com"
+   ]
+  },
+  {
+   "name": "Azure AI Foundry",
+   "category": "AI",
+   "subcategory": "Model/API console",
+   "domains": [
+    "ai.azure.com",
+    "oai.azure.com"
+   ]
+  },
+  {
+   "name": "DeepSeek Platform",
+   "category": "AI",
+   "subcategory": "Model/API console",
+   "domains": [
+    "platform.deepseek.com"
+   ]
+  },
+  {
+   "name": "xAI Console",
+   "category": "AI",
+   "subcategory": "Model/API console",
+   "domains": [
+    "console.x.ai"
+   ]
+  },
+  {
+   "name": "Cerebras Cloud",
+   "category": "AI",
+   "subcategory": "Model/API console",
+   "domains": [
+    "cloud.cerebras.ai"
+   ]
+  },
+  {
+   "name": "Baseten",
+   "category": "AI",
+   "subcategory": "Model/API console",
+   "domains": [
+    "baseten.co"
+   ]
+  },
+  {
+   "name": "Modal",
+   "category": "AI",
+   "subcategory": "Model/API console",
+   "domains": [
+    "modal.com"
+   ]
+  },
+  {
+   "name": "LangSmith",
+   "category": "AI",
+   "subcategory": "Model/API console",
+   "domains": [
+    "smith.langchain.com"
+   ]
+  },
+  {
+   "name": "Weights & Biases",
+   "category": "AI",
+   "subcategory": "Model/API console",
+   "domains": [
+    "wandb.ai"
+   ]
+  },
+  {
+   "name": "Pinecone",
+   "category": "AI",
+   "subcategory": "Model/API console",
+   "domains": [
+    "pinecone.io"
+   ]
+  },
+  {
+   "name": "Midjourney",
+   "category": "AI",
+   "subcategory": "Image/video/audio",
+   "domains": [
+    "midjourney.com"
+   ]
+  },
+  {
+   "name": "Runway",
+   "category": "AI",
+   "subcategory": "Image/video/audio",
+   "domains": [
+    "runwayml.com"
+   ]
+  },
+  {
+   "name": "Pika",
+   "category": "AI",
+   "subcategory": "Image/video/audio",
+   "domains": [
+    "pika.art"
+   ]
+  },
+  {
+   "name": "Leonardo.Ai",
+   "category": "AI",
+   "subcategory": "Image/video/audio",
+   "domains": [
+    "leonardo.ai"
+   ]
+  },
+  {
+   "name": "Ideogram",
+   "category": "AI",
+   "subcategory": "Image/video/audio",
+   "domains": [
+    "ideogram.ai"
+   ]
+  },
+  {
+   "name": "Stability AI",
+   "category": "AI",
+   "subcategory": "Image/video/audio",
+   "domains": [
+    "stability.ai",
+    "dreamstudio.ai"
+   ]
+  },
+  {
+   "name": "Suno",
+   "category": "AI",
+   "subcategory": "Image/video/audio",
+   "domains": [
+    "suno.com"
+   ]
+  },
+  {
+   "name": "Udio",
+   "category": "AI",
+   "subcategory": "Image/video/audio",
+   "domains": [
+    "udio.com"
+   ]
+  },
+  {
+   "name": "ElevenLabs",
+   "category": "AI",
+   "subcategory": "Image/video/audio",
+   "domains": [
+    "elevenlabs.io"
+   ]
+  },
+  {
+   "name": "Synthesia",
+   "category": "AI",
+   "subcategory": "Image/video/audio",
+   "domains": [
+    "synthesia.io"
+   ]
+  },
+  {
+   "name": "HeyGen",
+   "category": "AI",
+   "subcategory": "Image/video/audio",
+   "domains": [
+    "heygen.com"
+   ]
+  },
+  {
+   "name": "Descript",
+   "category": "AI",
+   "subcategory": "Image/video/audio",
+   "domains": [
+    "descript.com"
+   ]
+  },
+  {
+   "name": "Krea",
+   "category": "AI",
+   "subcategory": "Image/video/audio",
+   "domains": [
+    "krea.ai"
+   ]
+  },
+  {
+   "name": "Luma AI",
+   "category": "AI",
+   "subcategory": "Image/video/audio",
+   "domains": [
+    "lumalabs.ai"
+   ]
+  },
+  {
+   "name": "Adobe Firefly",
+   "category": "AI",
+   "subcategory": "Image/video/audio",
+   "domains": [
+    "firefly.adobe.com"
+   ]
+  },
+  {
+   "name": "Murf",
+   "category": "AI",
+   "subcategory": "Image/video/audio",
+   "domains": [
+    "murf.ai"
+   ]
+  },
+  {
+   "name": "Speechify",
+   "category": "AI",
+   "subcategory": "Image/video/audio",
+   "domains": [
+    "speechify.com"
+   ]
+  },
+  {
+   "name": "Captions",
+   "category": "AI",
+   "subcategory": "Image/video/audio",
+   "domains": [
+    "captions.ai"
+   ]
+  },
+  {
+   "name": "OpusClip",
+   "category": "AI",
+   "subcategory": "Image/video/audio",
+   "domains": [
+    "opus.pro"
+   ]
+  },
+  {
+   "name": "Clipdrop",
+   "category": "AI",
+   "subcategory": "Image/video/audio",
+   "domains": [
+    "clipdrop.co"
+   ]
+  },
+  {
+   "name": "Photoroom",
+   "category": "AI",
+   "subcategory": "Image/video/audio",
+   "domains": [
+    "photoroom.com"
+   ]
+  },
+  {
+   "name": "remove.bg",
+   "category": "AI",
+   "subcategory": "Image/video/audio",
+   "domains": [
+    "remove.bg"
+   ]
+  },
+  {
+   "name": "Kling AI",
+   "category": "AI",
+   "subcategory": "Image/video/audio",
+   "domains": [
+    "klingai.com"
+   ]
+  },
+  {
+   "name": "Sora",
+   "category": "AI",
+   "subcategory": "Image/video/audio",
+   "domains": [
+    "sora.com",
+    "sora.chatgpt.com"
+   ]
+  },
+  {
+   "name": "Otter.ai",
+   "category": "AI",
+   "subcategory": "Meeting/notes",
+   "domains": [
+    "otter.ai"
+   ]
+  },
+  {
+   "name": "Fireflies.ai",
+   "category": "AI",
+   "subcategory": "Meeting/notes",
+   "domains": [
+    "fireflies.ai"
+   ]
+  },
+  {
+   "name": "Fathom",
+   "category": "AI",
+   "subcategory": "Meeting/notes",
+   "domains": [
+    "fathom.video"
+   ]
+  },
+  {
+   "name": "tl;dv",
+   "category": "AI",
+   "subcategory": "Meeting/notes",
+   "domains": [
+    "tldv.io"
+   ]
+  },
+  {
+   "name": "Granola",
+   "category": "AI",
+   "subcategory": "Meeting/notes",
+   "domains": [
+    "granola.ai"
+   ]
+  },
+  {
+   "name": "Read AI",
+   "category": "AI",
+   "subcategory": "Meeting/notes",
+   "domains": [
+    "read.ai"
+   ]
+  },
+  {
+   "name": "Grain",
+   "category": "AI",
+   "subcategory": "Meeting/notes",
+   "domains": [
+    "grain.com"
+   ]
+  },
+  {
+   "name": "Avoma",
+   "category": "AI",
+   "subcategory": "Meeting/notes",
+   "domains": [
+    "avoma.com"
+   ]
+  },
+  {
+   "name": "Krisp",
+   "category": "AI",
+   "subcategory": "Meeting/notes",
+   "domains": [
+    "krisp.ai"
+   ]
+  },
+  {
+   "name": "Mem",
+   "category": "AI",
+   "subcategory": "Meeting/notes",
+   "domains": [
+    "mem.ai"
+   ]
+  },
+  {
+   "name": "Supernormal",
+   "category": "AI",
+   "subcategory": "Meeting/notes",
+   "domains": [
+    "supernormal.com"
+   ]
+  },
+  {
+   "name": "Jasper",
+   "category": "AI",
+   "subcategory": "Writing",
+   "domains": [
+    "jasper.ai"
+   ]
+  },
+  {
+   "name": "Copy.ai",
+   "category": "AI",
+   "subcategory": "Writing",
+   "domains": [
+    "copy.ai"
+   ]
+  },
+  {
+   "name": "Writesonic",
+   "category": "AI",
+   "subcategory": "Writing",
+   "domains": [
+    "writesonic.com"
+   ]
+  },
+  {
+   "name": "QuillBot",
+   "category": "AI",
+   "subcategory": "Writing",
+   "domains": [
+    "quillbot.com"
+   ]
+  },
+  {
+   "name": "Wordtune",
+   "category": "AI",
+   "subcategory": "Writing",
+   "domains": [
+    "wordtune.com"
+   ]
+  },
+  {
+   "name": "Rytr",
+   "category": "AI",
+   "subcategory": "Writing",
+   "domains": [
+    "rytr.me"
+   ]
+  },
+  {
+   "name": "Sudowrite",
+   "category": "AI",
+   "subcategory": "Writing",
+   "domains": [
+    "sudowrite.com"
+   ]
+  },
+  {
+   "name": "Writer",
+   "category": "AI",
+   "subcategory": "Writing",
+   "domains": [
+    "writer.com"
+   ]
+  },
+  {
+   "name": "Anyword",
+   "category": "AI",
+   "subcategory": "Writing",
+   "domains": [
+    "anyword.com"
+   ]
+  },
+  {
+   "name": "DeepL",
+   "category": "AI",
+   "subcategory": "Writing",
+   "domains": [
+    "deepl.com"
+   ]
+  },
+  {
+   "name": "Gamma",
+   "category": "AI",
+   "subcategory": "Writing",
+   "domains": [
+    "gamma.app"
+   ]
+  },
+  {
+   "name": "Beautiful.ai",
+   "category": "AI",
+   "subcategory": "Writing",
+   "domains": [
+    "beautiful.ai"
+   ]
+  },
+  {
+   "name": "Elicit",
+   "category": "AI",
+   "subcategory": "Writing",
+   "domains": [
+    "elicit.com"
+   ]
+  },
+  {
+   "name": "Consensus",
+   "category": "AI",
+   "subcategory": "Writing",
+   "domains": [
+    "consensus.app"
+   ]
+  },
+  {
+   "name": "Scite",
+   "category": "AI",
+   "subcategory": "Writing",
+   "domains": [
+    "scite.ai"
+   ]
+  },
+  {
+   "name": "Manus",
+   "category": "AI",
+   "subcategory": "Agents/automation",
+   "domains": [
+    "manus.im"
+   ]
+  },
+  {
+   "name": "Genspark",
+   "category": "AI",
+   "subcategory": "Agents/automation",
+   "domains": [
+    "genspark.ai"
+   ]
+  },
+  {
+   "name": "Relevance AI",
+   "category": "AI",
+   "subcategory": "Agents/automation",
+   "domains": [
+    "relevanceai.com"
+   ]
+  },
+  {
+   "name": "Lindy",
+   "category": "AI",
+   "subcategory": "Agents/automation",
+   "domains": [
+    "lindy.ai"
+   ]
+  },
+  {
+   "name": "Dust",
+   "category": "AI",
+   "subcategory": "Agents/automation",
+   "domains": [
+    "dust.tt"
+   ]
+  },
+  {
+   "name": "Harvey",
+   "category": "AI",
+   "subcategory": "Agents/automation",
+   "domains": [
+    "harvey.ai"
+   ]
+  },
+  {
+   "name": "Hebbia",
+   "category": "AI",
+   "subcategory": "Agents/automation",
+   "domains": [
+    "hebbia.ai"
+   ]
+  },
+  {
+   "name": "Browse AI",
+   "category": "AI",
+   "subcategory": "Agents/automation",
+   "domains": [
+    "browse.ai"
+   ]
+  },
+  {
+   "name": "Bardeen",
+   "category": "AI",
+   "subcategory": "Agents/automation",
+   "domains": [
+    "bardeen.ai"
+   ]
+  },
+  {
+   "name": "CrewAI",
+   "category": "AI",
+   "subcategory": "Agents/automation",
+   "domains": [
+    "crewai.com"
+   ]
+  },
+  {
+   "name": "Voiceflow",
+   "category": "AI",
+   "subcategory": "Agents/automation",
+   "domains": [
+    "voiceflow.com"
+   ]
+  },
+  {
+   "name": "Discord",
+   "category": "Communication",
+   "subcategory": "Messaging",
+   "domains": [
+    "discord.com"
+   ]
+  },
+  {
+   "name": "Webex",
+   "category": "Communication",
+   "subcategory": "Video Conferencing",
+   "domains": [
+    "webex.com"
+   ]
+  },
+  {
+   "name": "RingCentral",
+   "category": "Communication",
+   "subcategory": "Telephony",
+   "domains": [
+    "ringcentral.com"
+   ]
+  },
+  {
+   "name": "Dialpad",
+   "category": "Communication",
+   "subcategory": "Telephony",
+   "domains": [
+    "dialpad.com"
+   ]
+  },
+  {
+   "name": "Front",
+   "category": "Communication",
+   "subcategory": "Shared Inbox",
+   "domains": [
+    "front.com",
+    "frontapp.com"
+   ]
+  },
+  {
+   "name": "WhatsApp Web",
+   "category": "Communication",
+   "subcategory": "Messaging",
+   "domains": [
+    "web.whatsapp.com"
+   ]
+  },
+  {
+   "name": "Google Meet",
+   "category": "Communication",
+   "subcategory": "Video Conferencing",
+   "domains": [
+    "meet.google.com"
+   ]
+  },
+  {
+   "name": "ClickUp",
+   "category": "Productivity",
+   "subcategory": "Project Management",
+   "domains": [
+    "clickup.com"
+   ]
+  },
+  {
+   "name": "Basecamp",
+   "category": "Productivity",
+   "subcategory": "Project Management",
+   "domains": [
+    "basecamp.com"
+   ]
+  },
+  {
+   "name": "Smartsheet",
+   "category": "Productivity",
+   "subcategory": "Project Management",
+   "domains": [
+    "smartsheet.com"
+   ]
+  },
+  {
+   "name": "Wrike",
+   "category": "Productivity",
+   "subcategory": "Project Management",
+   "domains": [
+    "wrike.com"
+   ]
+  },
+  {
+   "name": "Todoist",
+   "category": "Productivity",
+   "subcategory": "Task Management",
+   "domains": [
+    "todoist.com"
+   ]
+  },
+  {
+   "name": "Evernote",
+   "category": "Productivity",
+   "subcategory": "Notes",
+   "domains": [
+    "evernote.com"
+   ]
+  },
+  {
+   "name": "Coda",
+   "category": "Productivity",
+   "subcategory": "Docs",
+   "domains": [
+    "coda.io"
+   ]
+  },
+  {
+   "name": "PandaDoc",
+   "category": "Productivity",
+   "subcategory": "E-Signature",
+   "domains": [
+    "pandadoc.com"
+   ]
+  },
+  {
+   "name": "Adobe Acrobat",
+   "category": "Productivity",
+   "subcategory": "Documents",
+   "domains": [
+    "acrobat.adobe.com"
+   ]
+  },
+  {
+   "name": "Zoho",
+   "category": "Productivity",
+   "subcategory": "Office Suite",
+   "domains": [
+    "zoho.com"
+   ]
+  },
+  {
+   "name": "Doodle",
+   "category": "Productivity",
+   "subcategory": "Scheduling",
+   "domains": [
+    "doodle.com"
+   ]
+  },
+  {
+   "name": "Typeform",
+   "category": "Productivity",
+   "subcategory": "Forms",
+   "domains": [
+    "typeform.com"
+   ]
+  },
+  {
+   "name": "SurveyMonkey",
+   "category": "Productivity",
+   "subcategory": "Forms",
+   "domains": [
+    "surveymonkey.com"
+   ]
+  },
+  {
+   "name": "Jotform",
+   "category": "Productivity",
+   "subcategory": "Forms",
+   "domains": [
+    "jotform.com"
+   ]
+  },
+  {
+   "name": "Tally",
+   "category": "Productivity",
+   "subcategory": "Forms",
+   "domains": [
+    "tally.so"
+   ]
+  },
+  {
+   "name": "Lucid",
+   "category": "Design",
+   "subcategory": "Diagramming",
+   "domains": [
+    "lucid.app",
+    "lucidchart.com"
+   ]
+  },
+  {
+   "name": "Whimsical",
+   "category": "Design",
+   "subcategory": "Whiteboard",
+   "domains": [
+    "whimsical.com"
+   ]
+  },
+  {
+   "name": "Pitch",
+   "category": "Productivity",
+   "subcategory": "Presentations",
+   "domains": [
+    "pitch.com"
+   ]
+  },
+  {
+   "name": "Prezi",
+   "category": "Productivity",
+   "subcategory": "Presentations",
+   "domains": [
+    "prezi.com"
+   ]
+  },
+  {
+   "name": "Mural",
+   "category": "Design",
+   "subcategory": "Whiteboard",
+   "domains": [
+    "mural.co"
+   ]
+  },
+  {
+   "name": "WeTransfer",
+   "category": "Productivity",
+   "subcategory": "File Sharing",
+   "domains": [
+    "wetransfer.com"
+   ]
+  },
+  {
+   "name": "n8n",
+   "category": "Productivity",
+   "subcategory": "Automation",
+   "domains": [
+    "n8n.io",
+    "n8n.cloud"
+   ]
+  },
+  {
+   "name": "Make",
+   "category": "Productivity",
+   "subcategory": "Automation",
+   "domains": [
+    "make.com"
+   ]
+  },
+  {
+   "name": "Bitbucket",
+   "category": "Engineering",
+   "subcategory": "Version Control",
+   "domains": [
+    "bitbucket.org"
+   ]
+  },
+  {
+   "name": "Netlify",
+   "category": "Engineering",
+   "subcategory": "Hosting",
+   "domains": [
+    "netlify.com"
+   ]
+  },
+  {
+   "name": "Cloudflare Dashboard",
+   "category": "Engineering",
+   "subcategory": "Cloud Infrastructure",
+   "domains": [
+    "dash.cloudflare.com"
+   ]
+  },
+  {
+   "name": "DigitalOcean",
+   "category": "Engineering",
+   "subcategory": "Cloud Infrastructure",
+   "domains": [
+    "digitalocean.com"
+   ]
+  },
+  {
+   "name": "Heroku",
+   "category": "Engineering",
+   "subcategory": "Hosting",
+   "domains": [
+    "heroku.com"
+   ]
+  },
+  {
+   "name": "Render",
+   "category": "Engineering",
+   "subcategory": "Hosting",
+   "domains": [
+    "render.com"
+   ]
+  },
+  {
+   "name": "Railway",
+   "category": "Engineering",
+   "subcategory": "Hosting",
+   "domains": [
+    "railway.app",
+    "railway.com"
+   ]
+  },
+  {
+   "name": "Supabase",
+   "category": "Engineering",
+   "subcategory": "Database",
+   "domains": [
+    "supabase.com"
+   ]
+  },
+  {
+   "name": "Firebase Console",
+   "category": "Engineering",
+   "subcategory": "Cloud Infrastructure",
+   "domains": [
+    "console.firebase.google.com"
+   ]
+  },
+  {
+   "name": "Google Cloud Console",
+   "category": "Engineering",
+   "subcategory": "Cloud Infrastructure",
+   "domains": [
+    "console.cloud.google.com"
+   ]
+  },
+  {
+   "name": "Azure Portal",
+   "category": "Engineering",
+   "subcategory": "Cloud Infrastructure",
+   "domains": [
+    "portal.azure.com"
+   ]
+  },
+  {
+   "name": "New Relic",
+   "category": "Engineering",
+   "subcategory": "Monitoring",
+   "domains": [
+    "newrelic.com"
+   ]
+  },
+  {
+   "name": "PagerDuty",
+   "category": "Engineering",
+   "subcategory": "Incident Management",
+   "domains": [
+    "pagerduty.com"
+   ]
+  },
+  {
+   "name": "Grafana Cloud",
+   "category": "Engineering",
+   "subcategory": "Monitoring",
+   "domains": [
+    "grafana.com",
+    "grafana.net"
+   ]
+  },
+  {
+   "name": "Postman",
+   "category": "Engineering",
+   "subcategory": "API Tools",
+   "domains": [
+    "postman.com"
+   ]
+  },
+  {
+   "name": "CircleCI",
+   "category": "Engineering",
+   "subcategory": "CI/CD",
+   "domains": [
+    "circleci.com"
+   ]
+  },
+  {
+   "name": "Docker Hub",
+   "category": "Engineering",
+   "subcategory": "Registry",
+   "domains": [
+    "hub.docker.com"
+   ]
+  },
+  {
+   "name": "npm",
+   "category": "Engineering",
+   "subcategory": "Registry",
+   "domains": [
+    "npmjs.com"
+   ]
+  },
+  {
+   "name": "Snyk",
+   "category": "Engineering",
+   "subcategory": "Security",
+   "domains": [
+    "snyk.io"
+   ]
+  },
+  {
+   "name": "MongoDB Atlas",
+   "category": "Engineering",
+   "subcategory": "Database",
+   "domains": [
+    "cloud.mongodb.com"
+   ]
+  },
+  {
+   "name": "Algolia",
+   "category": "Engineering",
+   "subcategory": "Search API",
+   "domains": [
+    "algolia.com"
+   ]
+  },
+  {
+   "name": "Auth0",
+   "category": "Engineering",
+   "subcategory": "Identity",
+   "domains": [
+    "auth0.com"
+   ]
+  },
+  {
+   "name": "Retool",
+   "category": "Engineering",
+   "subcategory": "Internal Tools",
+   "domains": [
+    "retool.com"
+   ]
+  },
+  {
+   "name": "Fly.io",
+   "category": "Engineering",
+   "subcategory": "Hosting",
+   "domains": [
+    "fly.io"
+   ]
+  },
+  {
+   "name": "Neon",
+   "category": "Engineering",
+   "subcategory": "Database",
+   "domains": [
+    "neon.tech"
+   ]
+  },
+  {
+   "name": "PlanetScale",
+   "category": "Engineering",
+   "subcategory": "Database",
+   "domains": [
+    "planetscale.com"
+   ]
+  },
+  {
+   "name": "Expo",
+   "category": "Engineering",
+   "subcategory": "Mobile",
+   "domains": [
+    "expo.dev"
+   ]
+  },
+  {
+   "name": "CodeSandbox",
+   "category": "Engineering",
+   "subcategory": "Dev Environment",
+   "domains": [
+    "codesandbox.io"
+   ]
+  },
+  {
+   "name": "LaunchDarkly",
+   "category": "Engineering",
+   "subcategory": "Feature Flags",
+   "domains": [
+    "launchdarkly.com"
+   ]
+  },
+  {
+   "name": "Honeycomb",
+   "category": "Engineering",
+   "subcategory": "Monitoring",
+   "domains": [
+    "honeycomb.io"
+   ]
+  },
+  {
+   "name": "HCP Terraform",
+   "category": "Engineering",
+   "subcategory": "Infrastructure as Code",
+   "domains": [
+    "app.terraform.io"
+   ]
+  },
+  {
+   "name": "Salesloft",
+   "category": "Sales",
+   "subcategory": "Sales Engagement",
+   "domains": [
+    "salesloft.com"
+   ]
+  },
+  {
+   "name": "Outreach",
+   "category": "Sales",
+   "subcategory": "Sales Engagement",
+   "domains": [
+    "outreach.io"
+   ]
+  },
+  {
+   "name": "Apollo.io",
+   "category": "Sales",
+   "subcategory": "Prospecting",
+   "domains": [
+    "apollo.io"
+   ]
+  },
+  {
+   "name": "Gong",
+   "category": "Sales",
+   "subcategory": "Revenue Intelligence",
+   "domains": [
+    "gong.io"
+   ]
+  },
+  {
+   "name": "ZoomInfo",
+   "category": "Sales",
+   "subcategory": "Prospecting",
+   "domains": [
+    "zoominfo.com"
+   ]
+  },
+  {
+   "name": "Close",
+   "category": "Sales",
+   "subcategory": "CRM",
+   "domains": [
+    "close.com"
+   ]
+  },
+  {
+   "name": "DocSend",
+   "category": "Sales",
+   "subcategory": "Document Sharing",
+   "domains": [
+    "docsend.com"
+   ]
+  },
+  {
+   "name": "Clari",
+   "category": "Sales",
+   "subcategory": "Revenue Intelligence",
+   "domains": [
+    "clari.com"
+   ]
+  },
+  {
+   "name": "Help Scout",
+   "category": "Support",
+   "subcategory": "Customer Support",
+   "domains": [
+    "helpscout.com",
+    "helpscout.net"
+   ]
+  },
+  {
+   "name": "Gorgias",
+   "category": "Support",
+   "subcategory": "Customer Support",
+   "domains": [
+    "gorgias.com"
+   ]
+  },
+  {
+   "name": "Atlassian Statuspage",
+   "category": "Support",
+   "subcategory": "Status Page",
+   "domains": [
+    "statuspage.io"
+   ]
+  },
+  {
+   "name": "Brex",
+   "category": "Finance",
+   "subcategory": "Spend Management",
+   "domains": [
+    "brex.com"
+   ]
+  },
+  {
+   "name": "Ramp",
+   "category": "Finance",
+   "subcategory": "Spend Management",
+   "domains": [
+    "ramp.com"
+   ]
+  },
+  {
+   "name": "Expensify",
+   "category": "Finance",
+   "subcategory": "Expenses",
+   "domains": [
+    "expensify.com"
+   ]
+  },
+  {
+   "name": "BILL",
+   "category": "Finance",
+   "subcategory": "Accounts Payable",
+   "domains": [
+    "bill.com"
+   ]
+  },
+  {
+   "name": "NetSuite",
+   "category": "Finance",
+   "subcategory": "ERP",
+   "domains": [
+    "netsuite.com"
+   ]
+  },
+  {
+   "name": "Carta",
+   "category": "Finance",
+   "subcategory": "Equity Management",
+   "domains": [
+    "carta.com"
+   ]
+  },
+  {
+   "name": "Mercury",
+   "category": "Finance",
+   "subcategory": "Banking",
+   "domains": [
+    "mercury.com"
+   ]
+  },
+  {
+   "name": "Chargebee",
+   "category": "Finance",
+   "subcategory": "Billing",
+   "domains": [
+    "chargebee.com"
+   ]
+  },
+  {
+   "name": "Workday",
+   "category": "HR",
+   "subcategory": "HRIS",
+   "domains": [
+    "workday.com",
+    "myworkday.com"
+   ]
+  },
+  {
+   "name": "ADP",
+   "category": "HR",
+   "subcategory": "Payroll",
+   "domains": [
+    "adp.com"
+   ]
+  },
+  {
+   "name": "Deel",
+   "category": "HR",
+   "subcategory": "Payroll",
+   "domains": [
+    "deel.com"
+   ]
+  },
+  {
+   "name": "Lattice",
+   "category": "HR",
+   "subcategory": "Performance",
+   "domains": [
+    "lattice.com"
+   ]
+  },
+  {
+   "name": "Greenhouse",
+   "category": "HR",
+   "subcategory": "Recruiting",
+   "domains": [
+    "greenhouse.io"
+   ]
+  },
+  {
+   "name": "Lever",
+   "category": "HR",
+   "subcategory": "Recruiting",
+   "domains": [
+    "lever.co"
+   ]
+  },
+  {
+   "name": "Remote",
+   "category": "HR",
+   "subcategory": "Payroll",
+   "domains": [
+    "remote.com"
+   ]
+  },
+  {
+   "name": "Culture Amp",
+   "category": "HR",
+   "subcategory": "Engagement",
+   "domains": [
+    "cultureamp.com"
+   ]
+  },
+  {
+   "name": "Justworks",
+   "category": "HR",
+   "subcategory": "PEO",
+   "domains": [
+    "justworks.com"
+   ]
+  },
+  {
+   "name": "HiBob",
+   "category": "HR",
+   "subcategory": "HRIS",
+   "domains": [
+    "hibob.com"
+   ]
+  },
+  {
+   "name": "Duo Security",
+   "category": "Security",
+   "subcategory": "MFA",
+   "domains": [
+    "duosecurity.com"
+   ]
+  },
+  {
+   "name": "Bitwarden",
+   "category": "Security",
+   "subcategory": "Password Manager",
+   "domains": [
+    "bitwarden.com"
+   ]
+  },
+  {
+   "name": "Dashlane",
+   "category": "Security",
+   "subcategory": "Password Manager",
+   "domains": [
+    "dashlane.com"
+   ]
+  },
+  {
+   "name": "JumpCloud",
+   "category": "Security",
+   "subcategory": "Identity",
+   "domains": [
+    "jumpcloud.com"
+   ]
+  },
+  {
+   "name": "CrowdStrike Falcon",
+   "category": "Security",
+   "subcategory": "Endpoint",
+   "domains": [
+    "falcon.crowdstrike.com"
+   ]
+  },
+  {
+   "name": "Vanta",
+   "category": "Security",
+   "subcategory": "Compliance",
+   "domains": [
+    "vanta.com"
+   ]
+  },
+  {
+   "name": "Drata",
+   "category": "Security",
+   "subcategory": "Compliance",
+   "domains": [
+    "drata.com"
+   ]
+  },
+  {
+   "name": "Keeper",
+   "category": "Security",
+   "subcategory": "Password Manager",
+   "domains": [
+    "keepersecurity.com"
+   ]
+  },
+  {
+   "name": "Microsoft Entra ID",
+   "category": "Security",
+   "subcategory": "Identity",
+   "domains": [
+    "entra.microsoft.com",
+    "login.microsoftonline.com"
+   ]
+  },
+  {
+   "name": "KnowBe4",
+   "category": "Security",
+   "subcategory": "Security Awareness",
+   "domains": [
+    "knowbe4.com"
+   ]
+  },
+  {
+   "name": "Hootsuite",
+   "category": "Marketing",
+   "subcategory": "Social Media",
+   "domains": [
+    "hootsuite.com"
+   ]
+  },
+  {
+   "name": "Buffer",
+   "category": "Marketing",
+   "subcategory": "Social Media",
+   "domains": [
+    "buffer.com"
+   ]
+  },
+  {
+   "name": "Semrush",
+   "category": "Marketing",
+   "subcategory": "SEO",
+   "domains": [
+    "semrush.com"
+   ]
+  },
+  {
+   "name": "Ahrefs",
+   "category": "Marketing",
+   "subcategory": "SEO",
+   "domains": [
+    "ahrefs.com"
+   ]
+  },
+  {
+   "name": "Google Ads",
+   "category": "Marketing",
+   "subcategory": "Advertising",
+   "domains": [
+    "ads.google.com"
+   ]
+  },
+  {
+   "name": "Meta Business Suite",
+   "category": "Marketing",
+   "subcategory": "Advertising",
+   "domains": [
+    "business.facebook.com"
+   ]
+  },
+  {
+   "name": "Marketo",
+   "category": "Marketing",
+   "subcategory": "Marketing Automation",
+   "domains": [
+    "marketo.com"
+   ]
+  },
+  {
+   "name": "Klaviyo",
+   "category": "Marketing",
+   "subcategory": "Email Marketing",
+   "domains": [
+    "klaviyo.com"
+   ]
+  },
+  {
+   "name": "Kit",
+   "category": "Marketing",
+   "subcategory": "Email Marketing",
+   "domains": [
+    "kit.com",
+    "convertkit.com"
+   ]
+  },
+  {
+   "name": "Squarespace",
+   "category": "Marketing",
+   "subcategory": "Website Builder",
+   "domains": [
+    "squarespace.com"
+   ]
+  },
+  {
+   "name": "Wix",
+   "category": "Marketing",
+   "subcategory": "Website Builder",
+   "domains": [
+    "wix.com"
+   ]
+  },
+  {
+   "name": "WordPress.com",
+   "category": "Marketing",
+   "subcategory": "Website Builder",
+   "domains": [
+    "wordpress.com"
+   ]
+  },
+  {
+   "name": "Unbounce",
+   "category": "Marketing",
+   "subcategory": "Landing Pages",
+   "domains": [
+    "unbounce.com"
+   ]
+  },
+  {
+   "name": "Sprout Social",
+   "category": "Marketing",
+   "subcategory": "Social Media",
+   "domains": [
+    "sproutsocial.com"
+   ]
+  },
+  {
+   "name": "LinkedIn Campaign Manager",
+   "category": "Marketing",
+   "subcategory": "Advertising",
+   "domains": [
+    "business.linkedin.com"
+   ]
+  },
+  {
+   "name": "Google Analytics",
+   "category": "Analytics",
+   "subcategory": "Web Analytics",
+   "domains": [
+    "analytics.google.com"
+   ]
+  },
+  {
+   "name": "Looker Studio",
+   "category": "Analytics",
+   "subcategory": "BI",
+   "domains": [
+    "lookerstudio.google.com"
+   ]
+  },
+  {
+   "name": "Looker",
+   "category": "Analytics",
+   "subcategory": "BI",
+   "domains": [
+    "looker.com"
+   ]
+  },
+  {
+   "name": "Tableau",
+   "category": "Analytics",
+   "subcategory": "BI",
+   "domains": [
+    "tableau.com"
+   ]
+  },
+  {
+   "name": "Power BI",
+   "category": "Analytics",
+   "subcategory": "BI",
+   "domains": [
+    "app.powerbi.com"
+   ]
+  },
+  {
+   "name": "Metabase",
+   "category": "Analytics",
+   "subcategory": "BI",
+   "domains": [
+    "metabase.com"
+   ]
+  },
+  {
+   "name": "Heap",
+   "category": "Analytics",
+   "subcategory": "Product Analytics",
+   "domains": [
+    "heap.io"
+   ]
+  },
+  {
+   "name": "FullStory",
+   "category": "Analytics",
+   "subcategory": "Session Replay",
+   "domains": [
+    "fullstory.com"
+   ]
+  },
+  {
+   "name": "Hotjar",
+   "category": "Analytics",
+   "subcategory": "Session Replay",
+   "domains": [
+    "hotjar.com"
+   ]
+  },
+  {
+   "name": "Segment",
+   "category": "Analytics",
+   "subcategory": "Customer Data",
+   "domains": [
+    "segment.com"
+   ]
+  },
+  {
+   "name": "Snowflake",
+   "category": "Analytics",
+   "subcategory": "Data Warehouse",
+   "domains": [
+    "snowflakecomputing.com",
+    "app.snowflake.com"
+   ]
+  },
+  {
+   "name": "Databricks",
+   "category": "Analytics",
+   "subcategory": "Data Platform",
+   "domains": [
+    "databricks.com"
+   ]
+  },
+  {
+   "name": "Sketch",
+   "category": "Design",
+   "subcategory": "Design Tool",
+   "domains": [
+    "sketch.com"
+   ]
+  },
+  {
+   "name": "Framer",
+   "category": "Design",
+   "subcategory": "Website Builder",
+   "domains": [
+    "framer.com"
+   ]
+  },
+  {
+   "name": "Zeplin",
+   "category": "Design",
+   "subcategory": "Handoff",
+   "domains": [
+    "zeplin.io"
+   ]
+  },
+  {
+   "name": "Spline",
+   "category": "Design",
+   "subcategory": "3D",
+   "domains": [
+    "spline.design"
+   ]
+  }
+ ]
+}

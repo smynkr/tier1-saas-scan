@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Tier-1 SaaS Scan (working name)",
+  "short_name": "SaaS Scan",
+  "version": "0.0.0",
+  "description": "On-device report of the SaaS apps and AI tools you use. Hostname and day-level time only. No network requests.",
+  "minimum_chrome_version": "114",
+  "permissions": ["tabs", "storage", "alarms", "idle"],
+  "background": { "service_worker": "background.js", "type": "module" },
+  "action": { "default_popup": "popup.html", "default_title": "SaaS Scan" },
+  "incognito": "not_allowed",
+  "externally_connectable": { "ids": [] },
+  "content_security_policy": {
+    "extension_pages": "default-src 'self'; script-src 'self'; object-src 'none'; connect-src 'none'; img-src 'self' data: blob:; style-src 'self'; frame-src 'none'; form-action 'none'; base-uri 'none'"
+  }
+}

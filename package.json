@@ -1,0 +1,25 @@
+{
+  "name": "tier1-saas-scan",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Free, on-device, Tier-1 (hostname + day-level time only) SaaS and AI tool discovery browser extension. Zero network egress.",
+  "type": "module",
+  "scripts": {
+    "catalog": "node catalog/build.mjs",
+    "typecheck": "tsc --noEmit",
+    "test": "TZ=America/Los_Angeles vitest run",
+    "guard": "node scripts/check-tier1.mjs && node scripts/check-no-egress.mjs",
+    "build": "tsc --noEmit && vite build && node scripts/check-no-egress.mjs --dist-only",
+    "test:e2e": "node tests/e2e/no-egress.e2e.mjs",
+    "zip": "cd dist && zip -qr ../tier1-saas-scan.zip ."
+  },
+  "devDependencies": {
+    "@types/chrome": "0.0.268",
+    "@types/node": "^22.0.0",
+    "playwright": "1.60.0",
+    "typescript": "^5.7.0",
+    "vite": "^5.4.21",
+    "vitest": "^3.2.4"
+  },
+  "license": "Apache-2.0"
+}
